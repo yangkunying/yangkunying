@@ -1,0 +1,8 @@
+jp\gtf\tutorials\batch\tutorial0001\step\StudentProcessor.class
+jp\gtf\tutorials\batch\tutorial0001\flow\Tutorial0001Flow.class
+jp\gtf\tutorials\batch\tutorial0001\step\StudentReader$1.class
+jp\gtf\tutorials\batch\tutorial0001\step\StudentReader.class
+jp\gtf\tutorials\batch\tutorial0001\step\StudentWriter.class
+jp\gtf\tutorials\batch\tutorial0001\step\Student.class
+jp\gtf\tutorials\batch\config\DatabaseConfiguration.class
+jp\gtf\tutorials\batch\config\BatchConfiguration.class

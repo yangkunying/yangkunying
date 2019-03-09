@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: jp.gtf.tutorials.batch.tutorial0001.Tutorial0001FlowTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.298 s - in jp.gtf.tutorials.batch.tutorial0001.Tutorial0001FlowTest
